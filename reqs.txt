@@ -1,3 +1,4 @@
 web3
 rich
 coincurve
+pysha3
